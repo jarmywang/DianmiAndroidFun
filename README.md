@@ -2,8 +2,6 @@
 
 ## License
 
----
-
 ```
    Copyright 2017 wangjianjun
 
